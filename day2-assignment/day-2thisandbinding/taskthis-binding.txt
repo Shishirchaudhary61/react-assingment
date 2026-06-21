@@ -1,0 +1,37 @@
+1. this keyword & Function Binding
+👉 What is this?
+
+this refers to the object that is currently executing the code.
+
+Key rules:
+
+Where used	What this refers to
+inside object method	that object
+outside any object	global object
+in event handlers	the element
+arrow functions	does NOT have its own this
+🧠 Example (with per-line comments)
+
+/////////////////////////////////////////////////////////////////////////   
+
+✔️ 10 Tasks: this & binding
+
+1.Create object with name and method using this.
+
+2.Call method from another variable and see undefined.
+
+3.Fix with .bind().
+
+4.Create two objects and use the same method with .bind().
+
+5.Use this inside a click handler (browser).
+
+6.Write function in strict mode and log this.
+
+7.Convert normal function to arrow and see difference.
+
+8.Create object with nested object and log this.
+
+9.Use .call() to borrow method.
+
+10.Use .apply() to borrow method.

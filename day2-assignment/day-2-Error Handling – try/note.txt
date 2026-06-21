@@ -1,0 +1,21 @@
+10 Tasks: try/catch
+
+1.Try using undefined function.
+
+2.Divide number by zero.
+
+3.Use custom error message.
+
+4.Throw error manually.
+
+5.Create function with try/catch.
+
+6.Multiple catch messages.
+
+7.Use finally.
+
+8.Try JSON.parse with invalid JSON.
+
+9.Catch error and log name.
+
+10.Use try/catch in async function.

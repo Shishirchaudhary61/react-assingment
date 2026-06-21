@@ -1,0 +1,49 @@
+======================= Reduce in js ============
+* Syntax **
+
+array.reduce((accumulator, currentValue) => {
+    // logic
+    return accumulator;
+}, initialValue);
+
+
+
+* Parameters *
+
+accumulator → stores the result from previous iterations
+currentValue → current array item
+initialValue → starting value of accumulator
+
+====find in js===
+***syntax***
+
+array.find((element) => {
+    return condition;
+});
+
+===reverse in js===
+***syntax***
+array.reverse()
+
+==sort in js==
+***syntax***//
+array.sort()
+
+==use rest and spread operation in object==
+**syntax**
+
+
+==keys loop==
+**syntax**
+
+
+==values l00p==
+**syntax**
+
+
+==entries loop==
+**syntax**
+
+
+
+

@@ -1,0 +1,21 @@
+10 Tasks: Modules
+
+1.Export a variable.
+
+2.Export a function.
+
+3.Import a function.
+
+4.Export default.
+
+5.Import default.
+
+6.Export multiple variables.
+
+7.Rename module on import.
+
+8.Export class.
+
+9.Export an object.
+
+10.Import everything using *.

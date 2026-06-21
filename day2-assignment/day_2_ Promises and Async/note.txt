@@ -1,0 +1,21 @@
+10 Tasks: Promises & async/await
+
+1.Create promise that resolves.
+
+2.Create promise that rejects.
+
+3.Use .then().
+
+4.Use .catch().
+
+5.Convert to async/await.
+
+6.Wait 2 seconds using setTimeout promise.
+
+7.Create function that returns promise.
+
+8.Chain promises.
+
+9.Use await inside async function.
+
+10.Use multiple awaits.

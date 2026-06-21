@@ -1,0 +1,21 @@
+10 Tasks: Classes & Inheritance
+
+1.Create class Vehicle.
+
+2.Add constructor.
+
+3.Add method drive().
+
+4.Extend class Bike.
+
+5.Override drive().
+
+6.Create class Student.
+
+7.Add marks property.
+
+8.Inherit class Programmer.
+
+9.Call parent method using super().
+
+10.Create multiple child classes.
